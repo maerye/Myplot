@@ -1,0 +1,72 @@
+﻿生成启动时间为 2015/11/27 13:05:52。
+     1>项目“E:\我的文档\Visual Studio 2015\Projects\MyPlot\MyPlot\MyPlot.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\MyPlot.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MyPlot.cpp
+         MyPlot.cpp
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(386): warning C4305: “+=”: 从“double”到“FLOAT”截断
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(388): warning C4305: “-=”: 从“double”到“FLOAT”截断
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(390): warning C4305: “+=”: 从“double”到“FLOAT”截断
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(392): warning C4305: “-=”: 从“double”到“FLOAT”截断
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(652): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(654): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(657): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(659): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(662): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(666): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(688): warning C4800: “UINT”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(694): warning C4800: “UINT”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(781): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(782): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(806): warning C4244: “初始化”: 从“FLOAT”转换到“INT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(807): warning C4244: “初始化”: 从“FLOAT”转换到“INT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(815): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(826): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(836): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(846): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(866): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(867): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(885): warning C4244: “初始化”: 从“FLOAT”转换到“INT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(886): warning C4244: “初始化”: 从“FLOAT”转换到“INT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(858): warning C4101: “buf”: 未引用的局部变量
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(932): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(933): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(951): warning C4244: “初始化”: 从“FLOAT”转换到“INT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(952): warning C4244: “初始化”: 从“FLOAT”转换到“INT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(959): warning C4244: “初始化”: 从“double”转换到“FLOAT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(962): warning C4244: “初始化”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(922): warning C4101: “buf”: 未引用的局部变量
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1059): warning C4244: “=”: 从“TCHAR”转换到“char”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1064): warning C4244: “=”: 从“TCHAR”转换到“char”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1068): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1073): warning C4244: “=”: 从“TCHAR”转换到“char”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1084): warning C4244: “=”: 从“TCHAR”转换到“char”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1122): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1140): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1141): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1159): warning C4244: “初始化”: 从“FLOAT”转换到“INT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1160): warning C4244: “初始化”: 从“FLOAT”转换到“INT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1165): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1167): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1168): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1112): warning C4101: “buf”: 未引用的局部变量
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1309): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1310): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1328): warning C4244: “初始化”: 从“FLOAT”转换到“INT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1329): warning C4244: “初始化”: 从“FLOAT”转换到“INT”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1339): warning C4244: “初始化”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(1299): warning C4101: “buf”: 未引用的局部变量
+     1>e:\我的文档\visual studio 2015\projects\myplot\myplot\myplot.cpp(990): warning C4715: “cscolor”: 不是所有的控件路径都返回值
+       Link:
+         E:\vs2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\我的文档\Visual Studio 2015\Projects\MyPlot\Debug\MyPlot.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\我的文档\Visual Studio 2015\Projects\MyPlot\Debug\MyPlot.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\我的文档\Visual Studio 2015\Projects\MyPlot\Debug\MyPlot.lib" /MACHINE:X86 Debug\MyPlot.res
+         Debug\MyPlot.obj
+         Debug\stdafx.obj
+         MyPlot.vcxproj -> E:\我的文档\Visual Studio 2015\Projects\MyPlot\Debug\MyPlot.exe
+     1>已完成生成项目“E:\我的文档\Visual Studio 2015\Projects\MyPlot\MyPlot\MyPlot.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.64
